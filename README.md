@@ -5,7 +5,7 @@ Referenced original source code by [Sleepwalking](https://github.com/Sleepwalkin
 Compiling:
 
 ```
-gcc -o dissect_ddb dissect_ddb.cpp
+g++ -o dissect_ddb dissect_ddb.cpp
 ```
 
 Have fun
